@@ -12,7 +12,7 @@ Currently I am using pythons random function random.randint((0, 65535))  in plac
 
 However this needs to be adapted as old versions of Math.random()  did not really give fully random numbers. 
 
-Todo:
+**Todo:**
 
 Implement the vulnerable Math.random from old browser versions. 
 
